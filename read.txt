@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 content 1
 
 content 2
@@ -12,4 +12,4 @@ content 5
 content 6
 =======
 content 1
->>>>>>> b55a29c82416894cb033720c98b9687a77142cd2
+
